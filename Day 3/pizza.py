@@ -21,4 +21,4 @@ if pepperoni=="Y":
 if extra_cheese=="Y":
     bill+=1
 
-print(t"Total bill="$" +"{bill}")
+print(f"Total bill=${bill}")
